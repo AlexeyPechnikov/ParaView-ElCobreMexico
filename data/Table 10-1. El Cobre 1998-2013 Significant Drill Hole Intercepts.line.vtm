@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="CB1" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_0.vtp"/>
+    <DataSet index="1" name="CB2" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_1.vtp"/>
+    <DataSet index="2" name="CB4" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_2.vtp"/>
+    <DataSet index="3" name="CB4 (including)" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_3.vtp"/>
+    <DataSet index="4" name="CB5" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_4.vtp"/>
+    <DataSet index="5" name="CB5" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_5.vtp"/>
+    <DataSet index="6" name="CB6" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_6.vtp"/>
+    <DataSet index="7" name="CB6 (including)" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_7.vtp"/>
+    <DataSet index="8" name="CB7" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_8.vtp"/>
+    <DataSet index="9" name="CB13" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_9.vtp"/>
+    <DataSet index="10" name="CB15" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_10.vtp"/>
+    <DataSet index="11" name="CB17" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_11.vtp"/>
+    <DataSet index="12" name="DDHO4CB1" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_12.vtp"/>
+    <DataSet index="13" name="08-CBCN-019" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_13.vtp"/>
+    <DataSet index="14" name="08-CBCN-019 (including)" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_14.vtp"/>
+    <DataSet index="15" name="08-CBCN-021" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_15.vtp"/>
+    <DataSet index="16" name="08-CBCN-022" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_16.vtp"/>
+    <DataSet index="17" name="08-CBCN-022" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_17.vtp"/>
+    <DataSet index="18" name="08-CBCN-022 (including)" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_18.vtp"/>
+    <DataSet index="19" name="08-CBCN-023" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_19.vtp"/>
+    <DataSet index="20" name="08-CBCN-024" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_20.vtp"/>
+    <DataSet index="21" name="08-CBCN-025" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_21.vtp"/>
+    <DataSet index="22" name="08-CBCN-026" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_22.vtp"/>
+    <DataSet index="23" name="08-CBCN-027" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_23.vtp"/>
+    <DataSet index="24" name="08-CBCN-027 (including)" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_24.vtp"/>
+    <DataSet index="25" name="08-CBCN-028" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_25.vtp"/>
+    <DataSet index="26" name="EC-12-001" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_26.vtp"/>
+    <DataSet index="27" name="EC-13-004" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_27.vtp"/>
+    <DataSet index="28" name="EC-13-004 (including)" file="Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line/Table 10-1. El Cobre 1998-2013 Significant Drill Hole Intercepts.line_28.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>

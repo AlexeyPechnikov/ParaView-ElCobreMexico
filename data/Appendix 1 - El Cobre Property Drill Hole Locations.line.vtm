@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="CB1 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_0.vtp"/>
+    <DataSet index="1" name="CB2 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_1.vtp"/>
+    <DataSet index="2" name="CB3 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_2.vtp"/>
+    <DataSet index="3" name="CB4 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_3.vtp"/>
+    <DataSet index="4" name="CB5 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_4.vtp"/>
+    <DataSet index="5" name="CB6 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_5.vtp"/>
+    <DataSet index="6" name="CB7 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_6.vtp"/>
+    <DataSet index="7" name="CB8 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_7.vtp"/>
+    <DataSet index="8" name="CB9 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_8.vtp"/>
+    <DataSet index="9" name="CB10 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_9.vtp"/>
+    <DataSet index="10" name="CB11 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_10.vtp"/>
+    <DataSet index="11" name="CB12 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_11.vtp"/>
+    <DataSet index="12" name="CB13 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_12.vtp"/>
+    <DataSet index="13" name="CB14 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_13.vtp"/>
+    <DataSet index="14" name="CB15 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_14.vtp"/>
+    <DataSet index="15" name="CB16 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_15.vtp"/>
+    <DataSet index="16" name="CB17 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_16.vtp"/>
+    <DataSet index="17" name="DDHO4CB1 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_17.vtp"/>
+    <DataSet index="18" name="DDHO4CB2 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_18.vtp"/>
+    <DataSet index="19" name="CBO2-01 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_19.vtp"/>
+    <DataSet index="20" name="CBO2-02 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_20.vtp"/>
+    <DataSet index="21" name="CBO2-03 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_21.vtp"/>
+    <DataSet index="22" name="CBO2-04 [Los Banos]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_22.vtp"/>
+    <DataSet index="23" name="CBO2-08 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_23.vtp"/>
+    <DataSet index="24" name="CBO2-09 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_24.vtp"/>
+    <DataSet index="25" name="08-CBCN-019 [Norte]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_25.vtp"/>
+    <DataSet index="26" name="08-CBCN-021 [Norte]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_26.vtp"/>
+    <DataSet index="27" name="08-CBCN-022 [Norte]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_27.vtp"/>
+    <DataSet index="28" name="08-CBCN-023 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_28.vtp"/>
+    <DataSet index="29" name="08-CBCN-024 [Norte]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_29.vtp"/>
+    <DataSet index="30" name="08-CBCN-025 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_30.vtp"/>
+    <DataSet index="31" name="08-CBCN-026 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_31.vtp"/>
+    <DataSet index="32" name="08-CBCN-027 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_32.vtp"/>
+    <DataSet index="33" name="08-CBCN-028 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_33.vtp"/>
+    <DataSet index="34" name="09-CBCN-042 [Norte]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_34.vtp"/>
+    <DataSet index="35" name="EC-12-001 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_35.vtp"/>
+    <DataSet index="36" name="EC-12-002 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_36.vtp"/>
+    <DataSet index="37" name="EC-12-003 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_37.vtp"/>
+    <DataSet index="38" name="EC-13-004 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_38.vtp"/>
+    <DataSet index="39" name="EC-13-005 [El Porvenir]" file="Appendix 1 - El Cobre Property Drill Hole Locations.line/Appendix 1 - El Cobre Property Drill Hole Locations.line_39.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
