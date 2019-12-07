@@ -15,10 +15,10 @@ See LinkedIn posts for more details:
 
 There are multiple data cubes and sections in the project which could be enabled manually. See below the initial view screenshot:
 
-![ParaView Project Screenshot](paraview_project_screen.png)
+![ParaView Project Screenshot](paraview_project_screen.jpg)
 
 # How to open the project
 
-Use File -> Load State menu item to load the project.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
+Use [ParaView](https://www.paraview.org/download/) File -> Load State menu item to load the project.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
 
-![ParaView data load settings](paraview_data_load_screen.png)
+![ParaView data load settings](paraview_data_load_screen.jpg)
