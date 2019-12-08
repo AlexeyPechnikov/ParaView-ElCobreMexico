@@ -17,6 +17,8 @@ There are multiple data cubes and sections in the project which could be enabled
 
 ![ParaView Project Screenshot](paraview_project_screen.jpg)
 
+![ParaView Project Screenshot 3D](paraview_project_screen3d.jpg)
+
 # How to open the project
 
 Use [ParaView](https://www.paraview.org/download/) File -> Load State menu item to load the project.pvsm project file and specify "data" subdirectory as "Data Directory" as on the screen below:
